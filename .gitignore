@@ -1,0 +1,12 @@
+.env
+.env.local
+
+.DS_Store
+Thumbs.db
+
+/bin
+/dist
+*.exe
+
+.idea/
+.vscode/
